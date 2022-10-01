@@ -8,32 +8,32 @@
 
 ## redis:
 
-![redis](https://img.shiker.tech//myblog/REDIS.png_pm)
+![redis](shardingsphere/REDIS.png_pm)
 
 ## JVM
 
-![JVM](https://img.shiker.tech//myblog/JVM.png_pm)
+![JVM](shardingsphere/JVM.png_pm)
 
 ## JAVA基础
 
-![java基础](https://img.shiker.tech//myblog/java%E5%9F%BA%E7%A1%80.png_pm)
+![java基础](shardingsphere/java%E5%9F%BA%E7%A1%80.png_pm)
 
 ## 数据库事务
 
-![数据库事务](https://img.shiker.tech//myblog/%E6%95%B0%E6%8D%AE%E5%BA%93.png_pm)
+![数据库事务](shardingsphere/%E6%95%B0%E6%8D%AE%E5%BA%93.png_pm)
 
 ## 网络
 
-![网络](https://img.shiker.tech//myblog/%E7%BD%91%E7%BB%9C.png_pm)
+![网络](shardingsphere/%E7%BD%91%E7%BB%9C.png_pm)
 
 ## 分布式事务
 
-![分布式事务](https://img.shiker.tech//myblog/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.png_pm)
+![分布式事务](shardingsphere/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.png_pm)
 
 ## spring
 
-![spring](https://img.shiker.tech//myblog/spring-1662786529596.png_pm)
+![spring](shardingsphere/spring-1662786529596.png_pm)
 
 ## 其他知识点
 
-![其他知识点](https://img.shiker.tech//myblog/%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86%E7%82%B9.png_pm)
+![其他知识点](shardingsphere/%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86%E7%82%B9.png_pm)
